@@ -1,4 +1,4 @@
-# Product-Management-Springboot-JPA
+# Hotel-Management-System-Springboot
 REST API Project for Hotel Management using CRUD (Create Retrieve Update Delete) applications through API implemented using JPA Repository in Springboot Framework.
 
 Technologies used: Java, SpringBoot, REST API, JPA Repository, Postman.
